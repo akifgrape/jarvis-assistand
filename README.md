@@ -79,4 +79,4 @@ javascript
 ```
 I don't mean to boast, but mine is even better as it works with full voice commands. Using the Artyom.js library, I created a simple chat application where the user can write text in the input box and listen to Artyom's voice response by clicking the 'Speak' button. Additionally, Artyom can respond with a specific answer when the user says a certain command.
 
-## Creator and developer [Akif Garpe](https://github.com/akifgrape) 🔥
+## Creator and developer [Akif Grape](https://github.com/akifgrape) 🔥
